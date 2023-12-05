@@ -53,6 +53,7 @@
     * [Fenwick Tree](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/fenwick_tree.rs)
     * [Floyds Algorithm](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/floyds_algorithm.rs)
     * [Graph](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/graph.rs)
+    * [Hash Table](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/hash_table.rs)
     * [Heap](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/heap.rs)
     * [Infix To Postfix](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/infix_to_postfix.rs)
     * [Lazy Segment Tree](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/lazy_segment_tree.rs)
@@ -107,6 +108,7 @@
     * [Graham Scan](https://github.com/TheAlgorithms/Rust/blob/master/src/geometry/graham_scan.rs)
     * [Jarvis Scan](https://github.com/TheAlgorithms/Rust/blob/master/src/geometry/jarvis_scan.rs)
     * [Point](https://github.com/TheAlgorithms/Rust/blob/master/src/geometry/point.rs)
+    * [Polygon Points](https://github.com/TheAlgorithms/Rust/blob/master/src/geometry/polygon_points.rs)
     * [Segment](https://github.com/TheAlgorithms/Rust/blob/master/src/geometry/segment.rs)
   * Graph
     * [Astar](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/astar.rs)
@@ -136,6 +138,7 @@
     * [Two Satisfiability](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/two_satisfiability.rs)
   * [Lib](https://github.com/TheAlgorithms/Rust/blob/master/src/lib.rs)
   * Machine Learning
+    * [K Means](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/k_means.rs)
     * [Linear Regression](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/linear_regression.rs)
     * Loss Function
       * [Mae Loss](https://github.com/TheAlgorithms/Rust/blob/master/src/machine_learning/loss_function/mae_loss.rs)
@@ -162,6 +165,7 @@
     * [Cross Entropy Loss](https://github.com/TheAlgorithms/Rust/blob/master/src/math/cross_entropy_loss.rs)
     * [Doomsday](https://github.com/TheAlgorithms/Rust/blob/master/src/math/doomsday.rs)
     * [Elliptic Curve](https://github.com/TheAlgorithms/Rust/blob/master/src/math/elliptic_curve.rs)
+    * [Euclidean Distance](https://github.com/TheAlgorithms/Rust/blob/master/src/math/euclidean_distance.rs)
     * [Exponential Linear Unit](https://github.com/TheAlgorithms/Rust/blob/master/src/math/exponential_linear_unit.rs)
     * [Extended Euclidean Algorithm](https://github.com/TheAlgorithms/Rust/blob/master/src/math/extended_euclidean_algorithm.rs)
     * [Factors](https://github.com/TheAlgorithms/Rust/blob/master/src/math/factors.rs)
@@ -182,6 +186,7 @@
     * [Lcm Of N Numbers](https://github.com/TheAlgorithms/Rust/blob/master/src/math/lcm_of_n_numbers.rs)
     * [Leaky Relu](https://github.com/TheAlgorithms/Rust/blob/master/src/math/leaky_relu.rs)
     * [Linear Sieve](https://github.com/TheAlgorithms/Rust/blob/master/src/math/linear_sieve.rs)
+    * [Lucas Series](https://github.com/TheAlgorithms/Rust/blob/master/src/math/lucas_series.rs)
     * [Matrix Ops](https://github.com/TheAlgorithms/Rust/blob/master/src/math/matrix_ops.rs)
     * [Mersenne Primes](https://github.com/TheAlgorithms/Rust/blob/master/src/math/mersenne_primes.rs)
     * [Miller Rabin](https://github.com/TheAlgorithms/Rust/blob/master/src/math/miller_rabin.rs)
@@ -208,6 +213,8 @@
     * [Square Root](https://github.com/TheAlgorithms/Rust/blob/master/src/math/square_root.rs)
     * [Sum Of Digits](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sum_of_digits.rs)
     * [Sum Of Geometric Progression](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sum_of_geometric_progression.rs)
+    * [Sum Of Harmonic Series](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sum_of_harmonic_series.rs)
+    * [Sylvester Sequence](https://github.com/TheAlgorithms/Rust/blob/master/src/math/sylvester_sequence.rs)
     * [Tanh](https://github.com/TheAlgorithms/Rust/blob/master/src/math/tanh.rs)
     * [Trial Division](https://github.com/TheAlgorithms/Rust/blob/master/src/math/trial_division.rs)
     * [Vector Cross Product](https://github.com/TheAlgorithms/Rust/blob/master/src/math/vector_cross_product.rs)
